@@ -17,8 +17,8 @@ Inroduce the main function, in the main method set up the device ,array size and
 Save and execute the program.
 ## Program
 ```
-DEVELOPED BY : PradeepRaj.P
-REGISTER NO : 212222240073
+DEVELOPED BY : Santhosh.L
+REGISTER NO : 212222100046
 
 #include "common.h"
 #include <cuda_runtime.h>
